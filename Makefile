@@ -4,7 +4,6 @@ LOCAL_CFLAGS += -I./header
 
 CC:= g++ -g -std=c++11
 TARGETS1 = a
-SRCS1 = src/geometry.cc src/main.cc src/solution.cc
 SRC := src
 SRCS1    = $(wildcard $(SRC)/*.cc)
 OBJS1 = $(patsubst %.cc, %.o, $(SRCS1))

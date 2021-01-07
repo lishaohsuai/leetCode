@@ -11,5 +11,6 @@
 #include "test.hh"
 
 int main(){
-    TEST::solutionOne();
+    //TEST::solutionOne();
+    TEST::solutionFindValidMatrixGivenRowandColumnSums();
 }

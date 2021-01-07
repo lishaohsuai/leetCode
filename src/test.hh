@@ -10,5 +10,6 @@
 #define __TEST_HH__
 namespace TEST{
     void solutionOne();
+    void solutionFindValidMatrixGivenRowandColumnSums();
 }
 #endif
