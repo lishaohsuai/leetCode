@@ -11,5 +11,6 @@
 namespace TEST{
     void solutionOne();
     void solutionFindValidMatrixGivenRowandColumnSums();
+    void solutionNumberOfWaysToSplitaString();
 }
 #endif

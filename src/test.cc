@@ -9,6 +9,7 @@
 #include "test.hh"
 #include "solutionOne.hh"
 #include "solution1605.hh"
+#include "solution1573.hh"
 
 using namespace std;
 namespace TEST{
@@ -33,5 +34,11 @@ namespace TEST{
             }
             cout << endl;
         }
+    }
+
+    void solutionNumberOfWaysToSplitaString(){
+        Solution1573 s;
+        string ss = "010010000000001000";
+        cout << s.numWays(ss);
     }
 };

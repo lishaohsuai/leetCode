@@ -12,5 +12,6 @@
 
 int main(){
     //TEST::solutionOne();
-    TEST::solutionFindValidMatrixGivenRowandColumnSums();
+    //TEST::solutionFindValidMatrixGivenRowandColumnSums();
+    TEST::solutionNumberOfWaysToSplitaString();
 }
