@@ -13,5 +13,8 @@
 int main(){
     //TEST::solutionOne();
     //TEST::solutionFindValidMatrixGivenRowandColumnSums();
-    TEST::solutionNumberOfWaysToSplitaString();
+    //TEST::solutionNumberOfWaysToSplitaString();
+    //TEST::solutionThousandSeparator();
+    //TEST::solutionStoneGame3();
+    TEST::solutionLongestHappyString();
 }

@@ -12,5 +12,8 @@ namespace TEST{
     void solutionOne();
     void solutionFindValidMatrixGivenRowandColumnSums();
     void solutionNumberOfWaysToSplitaString();
+    void solutionThousandSeparator();
+    void solutionStoneGame3();
+    void solutionLongestHappyString();
 }
 #endif
